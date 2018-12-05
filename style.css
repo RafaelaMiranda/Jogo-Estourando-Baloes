@@ -4,6 +4,7 @@
     height: 500px;
     background: #FFF;
     border: solid 1px #A2A2A2;
+    margin-right: 5px; 
 }
 
 #cronometro-tabela{
@@ -13,6 +14,21 @@
 
 .cronometro{
     background: url('imagens/cronometro.png');
+    text-align: center;
+}
+
+#cronometro{
+    color: red;
+    font-size: 30px;
+
+}
+
+#baloes_inteiros{
+    font-size: 40px;
+}
+
+#baloes_estourados{
+    font-size: 40px;
 }
 
 #jogo{
